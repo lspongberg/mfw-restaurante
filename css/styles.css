@@ -51,11 +51,30 @@ nav.navbar {
 .carousel {
     margin-bottom: 60px;
 }
+<<<<<<< HEAD
 @@ -17,6 +67,78 @@
 .main_img2 {
     background-image: url('..img/restaurant-2.jpg');
 }
 .main_img2 {
+=======
+.carousel-caption {
+    z-index: 10;
+    padding-bottom: 60px;
+}
+.carousel-inner .item {
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+     background-position: center;
+}
+.main_img1 {
+    background-image: url('../img/wood-2.jpg')
+}
+.main_img2 {
+    background-image: url('..img/restaurant-2.jpg');
+}
+>>>>>>> f008890133ba75640b7829b6d9768aefe6e8d3a1
 .main_img3 {
     background-image: url('..img/farm-2.jpg');
 }
@@ -130,6 +149,7 @@ nav.navbar {
     font-weight: 300;
     font-size: 2em;
     text-shadow: 1px 1px 5px #0a0a0a;
+<<<<<<< HEAD
 } 
 /* Menu */
 #menu {
@@ -226,3 +246,6 @@ address {
     }
 }
 /* End of Contact Us Section */
+=======
+}
+>>>>>>> f008890133ba75640b7829b6d9768aefe6e8d3a1
