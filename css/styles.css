@@ -51,13 +51,6 @@ nav.navbar {
 .carousel {
     margin-bottom: 60px;
 }
-<<<<<<< HEAD
-@@ -17,6 +67,78 @@
-.main_img2 {
-    background-image: url('..img/restaurant-2.jpg');
-}
-.main_img2 {
-=======
 .carousel-caption {
     z-index: 10;
     padding-bottom: 60px;
@@ -72,11 +65,10 @@ nav.navbar {
     background-image: url('../img/wood-2.jpg')
 }
 .main_img2 {
-    background-image: url('..img/restaurant-2.jpg');
+    background-image: url('../img/restaurant-2.jpg');
 }
->>>>>>> f008890133ba75640b7829b6d9768aefe6e8d3a1
 .main_img3 {
-    background-image: url('..img/farm-2.jpg');
+    background-image: url('../img/farm-2.jpg');
 }
 .btn-primary {
     color:#fff;
@@ -149,7 +141,6 @@ nav.navbar {
     font-weight: 300;
     font-size: 2em;
     text-shadow: 1px 1px 5px #0a0a0a;
-<<<<<<< HEAD
 } 
 /* Menu */
 #menu {
@@ -187,8 +178,8 @@ nav.navbar {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-#menu .nav li a:hover {
-    #menu .nav-justified li a {
+#menu .nav li a:hover ,
+#menu .nav-justified li a {
         margin-bottom: -5px;
             }
 #menu .nav-tabs li a {
@@ -228,9 +219,10 @@ form span::after {
     font-size: 1em;
 }
 #contact_fine_print {
-    font-size: 12px; !important
+    font-size: 12px !important;
     text-align: center;
-}font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
 address {
     color: #fff;
     font-family: 'Raleway', sans-serif;
@@ -245,7 +237,3 @@ address {
         font-size: 168px;
     }
 }
-/* End of Contact Us Section */
-=======
-}
->>>>>>> f008890133ba75640b7829b6d9768aefe6e8d3a1
